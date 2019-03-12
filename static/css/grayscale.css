@@ -145,11 +145,11 @@
 }
 
 .btn-primary {
-  background-color: #0000FF;
+  background-color: #007bff;
 }
 
 .btn-primary:hover {
-  background-color: #00008B;
+  background-color: #007bff;
 }
 
 .btn-primary:focus {
@@ -186,7 +186,7 @@
 }
 
 .projects-section .project-text {
-  padding: 3rem;
+  padding: 5rem;
   font-size: 90%;
 }
 
@@ -196,14 +196,14 @@
   }
   .projects-section .project-text hr {
     border-color: #64a19d;
-    border-width: .25rem;
+    border-width: 1rem;
     width: 30%;
   }
 }
 
 .signup-section {
-  padding: 10rem 0;
-  background: linear-gradient(to bottom, rgba(22, 22, 22, 0.1) 0%, rgba(22, 22, 22, 0.5) 75%, #161616 100%), url("../img/bg-signup.jpg");
+  padding: 3rem 0;
+  background:url("../img/PLS.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -271,12 +271,12 @@ body {
 }
 
 a {
-  color: #64a19d;
+  color: #007bff;
 }
 
 a:focus, a:hover {
   text-decoration: none;
-  color: #3c6360;
+  color: #007bff;
 }
 
 .bg-black {
